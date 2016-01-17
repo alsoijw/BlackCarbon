@@ -1,0 +1,28 @@
+[Icon Theme]
+Name=BlackCarbon
+Example=folder
+
+# Directory list
+Directories=scalable/apps,scalable/mimetypes,scalable/places,scalable/status,
+
+[scalable/apps]
+Context=Applications
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/mimetypes]
+Context=MimeTypes
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/places]
+Context=Places
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
+
