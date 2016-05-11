@@ -13,7 +13,7 @@
    width="48"
    height="48"
    id="svg2989"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="utilities-terminal.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,14 +24,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-width="1303"
+     inkscape:window-height="704"
      id="namedview10"
      showgrid="true"
      inkscape:zoom="32"
-     inkscape:cx="11.424577"
+     inkscape:cx="6.096452"
      inkscape:cy="32.270257"
-     inkscape:window-x="0"
+     inkscape:window-x="63"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2989">
@@ -58,7 +58,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#333333;fill-opacity:1;stroke:none"
+     style="fill:#202020;fill-opacity:1;stroke:none"
      id="path2995"
      d="M 3,5.999997 45,6 l 0,35.999997 -42,0 z"
      inkscape:connector-curvature="0"
